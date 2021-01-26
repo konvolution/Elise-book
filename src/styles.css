@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App-Book {
+  margin: 16pt auto;
+}
+
+.App-Page-Last {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: #fff5f5;
+}
+
+.App-Page-Last h1 {
+  font-size: 3em;
+}
